@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Klothink-React/static/css/main.43cb0f04.css",
-    "main.js": "/Klothink-React/static/js/main.a471145b.js",
+    "main.js": "/Klothink-React/static/js/main.79210777.js",
     "static/js/453.2a82e7ac.chunk.js": "/Klothink-React/static/js/453.2a82e7ac.chunk.js",
     "static/media/fa-solid-900.ttf": "/Klothink-React/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/Klothink-React/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/Klothink-React/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/Klothink-React/index.html",
     "main.43cb0f04.css.map": "/Klothink-React/static/css/main.43cb0f04.css.map",
-    "main.a471145b.js.map": "/Klothink-React/static/js/main.a471145b.js.map",
+    "main.79210777.js.map": "/Klothink-React/static/js/main.79210777.js.map",
     "453.2a82e7ac.chunk.js.map": "/Klothink-React/static/js/453.2a82e7ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43cb0f04.css",
-    "static/js/main.a471145b.js"
+    "static/js/main.79210777.js"
   ]
 }
