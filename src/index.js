@@ -29,7 +29,12 @@ root.render(
     <Router>
       <Provider store={store}>
         <QueryClientProvider client={queryClient}>
-          <ClerkProvider publishableKey={process.env.REACT_APP_CLERK_PUBLISHABLE_KEY} afterSignOutUrl="/">
+          <ClerkProvider
+            publishableKey={process.env.REACT_APP_CLERK_PUBLISHABLE_KEY}
+            signInForceRedirectUrl={process.env.PUBLIC_URL}
+            signUpForceRedirectUrl={process.env.PUBLIC_URL}
+            afterSignOutUrl={process.env.PUBLIC_URL}
+          >
             <App />
           </ClerkProvider>
         </QueryClientProvider>
