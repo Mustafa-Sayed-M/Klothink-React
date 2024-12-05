@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "locationInfo": {
+            "name": "New York City, USA",
+            "detail": "123 Fashion Avenue, Suite 456, New York, NY 10001",
+            "direction": "https://www.google.com/maps/place/Kafr+Hamza,+Al+Khankah,+Al-Qalyubia+Governorate/@30.2297981,31.3233489,16z/data=!3m1!4b1!4m6!3m5!1s0x1458124769fc74f9:0xd26dba9c8fbbb476!8m2!3d30.2324261!4d31.3270841!16s%2Fg%2F1v0bvxz6!5m1!1e1?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+            "number": "https://wa.link/j3j5lu"
+        }
+    },
+    {
+        "id": 2,
+        "locationInfo": {
+            "name": "Paris, France",
+            "direction": "https://www.google.com/maps/place/Kafr+Hamza,+Al+Khankah,+Al-Qalyubia+Governorate/@30.2297981,31.3233489,16z/data=!3m1!4b1!4m6!3m5!1s0x1458124769fc74f9:0xd26dba9c8fbbb476!8m2!3d30.2324261!4d31.3270841!16s%2Fg%2F1v0bvxz6!5m1!1e1?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+            "detail": "789 Rue de la Mode, Paris 75001",
+            "number": "https://wa.link/j3j5lu"
+        }
+    },
+    {
+        "id": 3,
+        "locationInfo": {
+            "name": "Tokyo, Japan",
+            "direction": "https://www.google.com/maps/place/Kafr+Hamza,+Al+Khankah,+Al-Qalyubia+Governorate/@30.2297981,31.3233489,16z/data=!3m1!4b1!4m6!3m5!1s0x1458124769fc74f9:0xd26dba9c8fbbb476!8m2!3d30.2324261!4d31.3270841!16s%2Fg%2F1v0bvxz6!5m1!1e1?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+            "detail": "456 Shibuya Fashion Street, Shibuya-ku, Tokyo",
+            "number": "https://wa.link/j3j5lu"
+        }
+    }
+]

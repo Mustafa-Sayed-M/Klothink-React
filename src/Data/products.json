@@ -1,0 +1,293 @@
+[
+    {
+        "title": "Classic Denim Jeans",
+        "price": 49.99,
+        "description": "A timeless pair of denim jeans for everyday wear.",
+        "stock": 15,
+        "material": "Cotton, Polyester, Elastane",
+        "features": [
+            "Durable",
+            "Slim fit",
+            "Machine washable"
+        ],
+        "information": [
+            "Available in multiple washes",
+            "Perfect for casual days"
+        ],
+        "fit": "Slim Fit",
+        "category": "Menswear",
+        "style": "Casual",
+        "product_sizes": [
+            "s",
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "title": "Cozy Comfort Hoodie",
+        "price": 39.99,
+        "description": "A soft hoodie for maximum comfort and warmth.",
+        "stock": 30,
+        "material": "Cotton, Fleece",
+        "features": [
+            "Warm",
+            "Breathable",
+            "Front pocket"
+        ],
+        "information": [
+            "Great for casual outings or lounging at home"
+        ],
+        "fit": "Relaxed Fit",
+        "category": "Menswear",
+        "style": "Casual",
+        "product_sizes": [
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ]
+    },
+    {
+        "title": "Classic Polo Shirt",
+        "price": 29.99,
+        "description": "A classic polo shirt for a refined yet casual look.",
+        "stock": 20,
+        "material": "Cotton",
+        "features": [
+            "Soft fabric",
+            "Breathable",
+            "Collared design"
+        ],
+        "information": [
+            "Available in various colors",
+            "Perfect for casual meetings"
+        ],
+        "fit": "Regular Fit",
+        "category": "Menswear",
+        "style": "Casual",
+        "product_sizes": [
+            "s",
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "title": "Chino Pants",
+        "price": 44.99,
+        "description": "Versatile chino pants for any casual or semi-formal occasion.",
+        "stock": 25,
+        "material": "Cotton, Spandex",
+        "features": [
+            "Comfortable fit",
+            "Breathable",
+            "Tapered legs"
+        ],
+        "information": [
+            "Can be dressed up or down",
+            "Available in multiple colors"
+        ],
+        "fit": "Slim Fit",
+        "category": "Menswear",
+        "style": "Casual",
+        "product_sizes": [
+            "s",
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "title": "Classic Charcoal Suit",
+        "price": 199.99,
+        "description": "A sophisticated charcoal suit for formal occasions.",
+        "stock": 10,
+        "material": "Wool, Polyester",
+        "features": [
+            "Elegant design",
+            "Slim fit",
+            "Wrinkle-resistant"
+        ],
+        "information": [
+            "Perfect for weddings, business events, and formal dinners"
+        ],
+        "fit": "Slim Fit",
+        "category": "Menswear",
+        "style": "Formal",
+        "product_sizes": [
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "title": "Black French Cuff Shirt",
+        "price": 39.99,
+        "description": "A sleek black shirt with French cuffs for a refined look.",
+        "stock": 18,
+        "material": "Cotton",
+        "features": [
+            "Formal wear",
+            "Elegant design",
+            "Buttoned cuffs"
+        ],
+        "information": [
+            "Ideal for formal events",
+            "Pairs perfectly with a suit"
+        ],
+        "fit": "Regular Fit",
+        "category": "Menswear",
+        "style": "Formal",
+        "product_sizes": [
+            "s",
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "title": "Black Leather Oxford Shoes",
+        "price": 89.99,
+        "description": "Stylish black Oxford shoes for a polished, formal look.",
+        "stock": 12,
+        "material": "Leather",
+        "features": [
+            "Durable leather",
+            "Sleek design",
+            "Comfortable fit"
+        ],
+        "information": [
+            "Perfect for office wear and formal events"
+        ],
+        "fit": "Black",
+        "category": "Menswear",
+        "style": "Formal",
+        "product_sizes": [
+            "40",
+            "41",
+            "42",
+            "43"
+        ]
+    },
+    {
+        "title": "Classic Black Leather Belt",
+        "price": 29.99,
+        "description": "A high-quality black leather belt to complement your formal attire.",
+        "stock": 50,
+        "material": "Genuine Leather",
+        "features": [
+            "Durable",
+            "Adjustable size",
+            "Classic design"
+        ],
+        "information": [
+            "Perfect for suits and formal wear"
+        ],
+        "fit": "Genuine Leather",
+        "category": "Menswear",
+        "style": "Formal",
+        "product_sizes": [
+            "s",
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "title": "Performance Jacket",
+        "price": 59.99,
+        "description": "A versatile performance jacket designed for active wear.",
+        "stock": 8,
+        "material": "Polyester, Nylon",
+        "features": [
+            "Water-resistant",
+            "Breathable",
+            "Lightweight"
+        ],
+        "information": [
+            "Ideal for outdoor activities",
+            "Available in multiple colors"
+        ],
+        "fit": "Athletic Fit",
+        "category": "Menswear",
+        "style": "Lifestyle",
+        "product_sizes": [
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "title": "Quick-Dry Athletic Shorts",
+        "price": 39.99,
+        "description": "Comfortable athletic shorts that dry quickly and stay cool.",
+        "stock": 40,
+        "material": "Polyester, Spandex",
+        "features": [
+            "Quick-drying",
+            "Breathable",
+            "Elastic waistband"
+        ],
+        "information": [
+            "Perfect for workouts or sports activities"
+        ],
+        "fit": "Relaxed Fit",
+        "category": "Menswear",
+        "style": "Lifestyle",
+        "product_sizes": [
+            "s",
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "title": "High-Performance Leggings",
+        "price": 44.99,
+        "description": "Compression fit leggings for high-performance workouts.",
+        "stock": 18,
+        "material": "Polyester, Spandex",
+        "features": [
+            "Compression fit",
+            "Moisture-wicking",
+            "Flexible design"
+        ],
+        "information": [
+            "Ideal for gym workouts and outdoor activities"
+        ],
+        "fit": "Compression Fit",
+        "category": "Menswear",
+        "style": "Lifestyle",
+        "product_sizes": [
+            "s",
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "title": "Lightweight Running Shoes",
+        "price": 69.99,
+        "description": "Lightweight running shoes for speed and comfort during workouts.",
+        "stock": 14,
+        "material": "Mesh, Rubber",
+        "features": [
+            "Breathable",
+            "Cushioned sole",
+            "Lightweight design"
+        ],
+        "information": [
+            "Great for running, jogging, and sports activities"
+        ],
+        "fit": "Standard",
+        "category": "Menswear",
+        "style": "Lifestyle",
+        "product_sizes": [
+            "40",
+            "41",
+            "42",
+            "43"
+        ]
+    }
+]

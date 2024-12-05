@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Discover Trends",
+        "description": "Explore our curated collection of over 1000 styles"
+    },
+    {
+        "id": 2,
+        "name": "Secure Checkout",
+        "description": "Add your items to the cart and proceed to our secure checkout."
+    },
+    {
+        "id": 3,
+        "name": "Swift Dispatch",
+        "description": "Experience 95% same-day dispatch on orders."
+    },
+    {
+        "id": 4,
+        "name": "Unbox Happiness",
+        "description": "Receive your carefully packaged Klothink order."
+    }
+]

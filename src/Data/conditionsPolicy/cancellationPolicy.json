@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Cancellation Window",
+        "description": "Orders can be canceled within 24 hours of placement for a full refund."
+    },
+    {
+        "id": 2,
+        "name": "Cancellation Process",
+        "description": "Visit our Order Management section to cancel your order effortlessly."
+    },
+    {
+        "id": 3,
+        "name": "Refund Timeline",
+        "description": "Refunds for canceled orders are processed within 5-7 business days."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "icon": "assets/images/home_images/experience/1.png",
+        "name": "Passionate Craftsmanship",
+        "description": "Every garment at Klothink is crafted with passion, reflecting our commitment to quality and innovation."
+    },
+    {
+        "id": 2,
+        "icon": "assets/images/home_images/experience/2.png",
+        "name": "Fashion Forward",
+        "description": "We're more than a brand; we're trendsetters, curating styles that empower and inspire confidence."
+    },
+    {
+        "id": 3,
+        "icon": "assets/images/home_images/experience/3.png",
+        "name": "Customer-Centric Approach",
+        "description": "At Klothink, our customers are at the heart of everything we do. Your satisfaction is our measure of success."
+    },
+    {
+        "id": 4,
+        "icon": "assets/images/home_images/experience/4.png",
+        "name": "Global Inspiration",
+        "description": "Influenced by global trends, we bring you a diverse and dynamic collection."
+    },
+    {
+        "id": 5,
+        "icon": "assets/images/home_images/experience/5.png",
+        "name": "Empowering Your Style",
+        "description": "Beyond clothing, Klothink is a lifestyle. Join us on a journey of self-expression."
+    },
+    {
+        "id": 6,
+        "icon": "assets/images/home_images/experience/6.png",
+        "name": "Sustainable Practices",
+        "description": "Klothink is committed to sustainability, integrating eco-friendly practices into our production process."
+    }
+]
